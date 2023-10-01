@@ -56,7 +56,7 @@ nav ul {
 .hero p {
   font-weight: 600;
   color: var(--gray);
-  max-width: 400px;
+  max-width: 600px;
 }
 
 .hero-btn {
