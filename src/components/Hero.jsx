@@ -6,9 +6,7 @@ function HeroSection() {
       <div className="hero-content">
         <h1>YOUR FEET DESERVE THE BEST</h1>
         <p>
-          YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
-          SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR
-          SHOES.
+        Nike Air Max is a line of shoes produced by Nike, Inc., with the first model released in 1987. Air Max shoes are identified by their midsoles incorporating flexible urethane pouches filled with pressurized gas, visible from the exterior of the shoe and intended to provide cushioning to the underfoot
         </p>
 
         <div className="hero-btn">
